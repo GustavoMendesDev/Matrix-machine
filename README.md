@@ -14,8 +14,6 @@ Cálculos matemáticos em diferentes sistemas
 
 Interface visual com tema Matrix
 
-Operações básicas: soma, subtração, multiplicação, divisão
-
 Lógica de conversão entre bases numéricas
 
 # 🚀 Como Executar
